@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm Sudipta Mandal</h1>
+<h3 align="center">A Software Engineer With 3+ Years of Industry Experience</h3>
 
-<!--
-**MrMandalNSU/MrMandalNSU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨🏻‍💻 About Me
+```json
+{
+  "name": "Sudipta Mandal",
+  "current_company": "Eucaps AB",
+  "designation": "Software Engineer (Level 2)",
+  "portfolio": "",
+  "email": "mr.mandal16@gmail.com",
+  "skills": ["node.js", "express.js", "laravel", "graphQL", "MySQL", "AWS"],
+  "learning": ["React", "Next.js"],
+  "interest": ["Web", "Backend Engineering", "machine learning", "LLM", "Database", "Distributed System", "Cloud", "System Design"]
+}
+```
