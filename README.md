@@ -57,7 +57,7 @@
   <br> <br>
 </div>
 
-## 🔎 Sneak Peak of my Public Profile
+## 🔎 Sneak Peek of my Public Profile
 
 ###
 
