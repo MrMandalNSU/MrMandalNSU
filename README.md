@@ -67,7 +67,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MrMandalNSU&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
 
   <a href="https://codeforces.com/profile/mr_mandal">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=mr_mandal&theme=dracula&order=3" height="150" />
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=mr_mandal&theme=dracula&order=3" height="200" />
   </a>
 </div>
 
