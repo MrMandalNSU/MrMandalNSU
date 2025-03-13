@@ -61,8 +61,8 @@
 
 ###
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=mrmandalnsu&row=1&column=5" height="150" alt="trophies" />
-  <br><br><br>
+    <img src="https://github-profile-trophy.vercel.app/?username=mrmandalnsu&row=1&column=5&theme=onedark&margin-w=5" height="130" alt="trophies" />
+  <br><br>
 </div>
 
 <div align="center">
