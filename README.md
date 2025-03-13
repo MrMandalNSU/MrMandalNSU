@@ -62,12 +62,12 @@
 ###
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mrmandalnsu&row=1&column=5&theme=onedark&margin-w=5&order=1" height="100" alt="trophies" />
-  <img src="https://github-readme-stats.vercel.app/api?username=MrMandalNSU&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=2" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MrMandalNSU&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=3" height="150" alt="languages graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mrmandalnsu&row=1&column=5&theme=onedark&margin-w=5" height="100" alt="trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MrMandalNSU&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MrMandalNSU&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
 
   <a href="https://codeforces.com/profile/mr_mandal">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=mr_mandal&theme=dracula&order=4" height="150" />
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=mr_mandal&theme=dracula&order=3" height="150" />
   </a>
 
 
