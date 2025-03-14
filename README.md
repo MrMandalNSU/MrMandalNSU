@@ -75,7 +75,7 @@
 
 
 ###
-
+<!--
 <img src="https://raw.githubusercontent.com/MrMandalNSU/MrMandalNSU/output/snake.svg" alt="Snake animation" />
-
+-->
 ###
