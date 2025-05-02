@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm Sudipta Mandal</h1>
 <h3 align="center">A Software Engineer With 3+ Years of Industry Experience</h3>
 
-![](https://komarev.com/ghpvc/?username=MrMandalNSU&color=blue&style=flat-square&base=100&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=MrMandalNSU&color=blue&style=flat-square&abbreviated=true)
 ## 📄 About Me
 ```json
 {
