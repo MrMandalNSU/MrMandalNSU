@@ -8,7 +8,7 @@
   "name": "Sudipta Mandal",
   "current_company": "Eucaps AB",
   "designation": "Software Engineer (Level 2)",
-  "portfolio": "",
+  "portfolio": "https://sudipta-me.vercel.app/",
   "email": "mr.mandal16@gmail.com",
   "skills": ["node.js", "express.js", "laravel", "graphQL", "MySQL", "AWS"],
   "learning": ["React", "Next.js"],
