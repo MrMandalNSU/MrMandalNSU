@@ -6,12 +6,13 @@
 ```json
 {
   "name": "Sudipta Mandal",
-  "current_company": "Eucaps AB",
-  "designation": "Software Engineer (Level 2)",
-  "portfolio": "https://sudipta-me.vercel.app/",
+  "current_company": "Cargo Stream",
+  "designation": "Software Engineer (Level 3)",
+  "portfolio": "https://sudipta-mandal.vercel.app/",
   "email": "mr.mandal16@gmail.com",
-  "skills": ["node.js", "express.js", "laravel", "graphQL", "MySQL", "AWS"],
-  "learning": ["React", "Next.js"],
+  "skills": ["node.js", "express.js", "laravel", "GraphQL", "MySQL", "AWS", "React", "Next.js"],
+  "agentic_ai_skills": ["Context Engineering", "MCP Server Pipelines", "Agentic Workflow Automation", "Claude Code", "Cursor", "Antigravity", "Codex", "Gemini"],
+  "learning": ["Harness Engineering", "DevOps", "Software Securities"],
   "interest": ["Web", "Backend Engineering", "machine learning", "LLM", "Database", "Distributed System", "Cloud", "System Design"]
 }
 ```
