@@ -7,8 +7,8 @@
 {
   "name": "Sudipta Mandal",
   "current_company": "Cargo Stream",
-  "designation": "Software Engineer (Level 3)",
-  "portfolio": "https://sudipta-mandal.vercel.app/",
+  "designation": "Senior Software Engineer",
+  "portfolio": "https://sudipta.xyz/",
   "email": "mr.mandal16@gmail.com",
   "skills": ["node.js", "express.js", "laravel", "GraphQL", "MySQL", "AWS", "React", "Next.js"],
   "agentic_ai_skills": ["Context Engineering", "MCP Server Pipelines", "Agentic Workflow Automation", "Claude Code", "Cursor", "Antigravity", "Codex", "Gemini"],
